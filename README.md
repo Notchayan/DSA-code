@@ -20,7 +20,7 @@ Please ensure you have a C++ compiler installed on your system to compile and ru
 
 Compile and run `gen.cpp` with the desired inputs:
 
-```bash
+bash
 g++ gen.cpp -o gen
 ./gen N L
 
