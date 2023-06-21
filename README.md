@@ -1,3 +1,5 @@
+Sure, here is your updated README.md file:
+
 # README
 
 ## Problem Statement: Need for Speed - Energy Shift Challenge
@@ -9,6 +11,7 @@ This repository is submitted as part of a competitive programming contest. The p
 1. `statement.md` - Contains the comprehensive problem statement for "Need for Speed: Energy Shift Challenge".
 2. `gen.cpp` - This is a generator program that creates test data for the problem based on predefined constraints.
 3. `sol.cpp` - The solution program for the problem. This program implements the logic to solve the problem as described in the statement.md file.
+4. `editorial.md` - This file provides an explanation of the problem, a walkthrough of the solution, and an analysis of the solution's time and space complexity.
 
 ## Requirements
 
@@ -27,7 +30,7 @@ g++ gen.cpp -o gen
 
 Where N is the number of speed-up pads and L is the total length of the track.
 
-To run the solution:
+#### To run the solution:
 Compile and run sol.cpp:
 
 ```bash
@@ -39,4 +42,6 @@ Then, enter your test data in the format specified in the statement.md file.
 
 ## Contact
 If there are any questions or issues regarding this submission, please contact the submitter via the competition's preferred method of communication.
+
 Please replace any placeholders (like in the Contact section) with your actual data.
+
