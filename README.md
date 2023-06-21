@@ -4,7 +4,7 @@ Absolutely, here's your updated README.md file with the link to the problem on C
 
 ## Problem Statement: Need for Speed - Energy Shift Challenge
 
-This repository is submitted as part of a competitive programming contest. The problem titled "Need for Speed: Energy Shift Challenge" is a race-themed problem that requires careful energy management to traverse a track in the shortest possible time. Please refer to the [statement.md](statement.md) file for the detailed problem statement. The problem can also be found on the Codeforces platform at the following link: [Need for Speed on Codeforces](https://polygon.codeforces.com/p7dsLLl/chayan/need-for-speed)(access to 'devanshjain')
+This repository is submitted as part of a competitive programming contest. The problem titled "Need for Speed: Energy Shift Challenge" is a race-themed problem that requires careful energy management to traverse a track in the shortest possible time. Please refer to the [statement.md](statement.md) file for the detailed problem statement. The problem can also be found on the Codeforces platform at the following link: [Need for Speed on Codeforces](https://polygon.codeforces.com/p7dsLLl/chayan/need-for-speed) access to 'devanshjain'
 
 ## Repository Structure
 
