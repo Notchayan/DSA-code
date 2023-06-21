@@ -1,4 +1,3 @@
-Sure, here is an editorial for the given problem:
 
 ## Problem Editorial: Need for Speed - Energy Shift Challenge
 
