@@ -29,7 +29,7 @@ Where N is the number of speed-up pads and L is the total length of the track.
 To run the solution:
 Compile and run sol.cpp:
 
-```bash
+bash
 g++ sol.cpp -o sol
 ./sol
 
