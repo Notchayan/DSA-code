@@ -20,18 +20,20 @@ Please ensure you have a C++ compiler installed on your system to compile and ru
 
 Compile and run `gen.cpp` with the desired inputs:
 
-bash
+```bash
 g++ gen.cpp -o gen
 ./gen N L
+```
 
 Where N is the number of speed-up pads and L is the total length of the track.
 
 To run the solution:
 Compile and run sol.cpp:
 
-bash
+```bash
 g++ sol.cpp -o sol
 ./sol
+```
 
 Then, enter your test data in the format specified in the statement.md file.
 
