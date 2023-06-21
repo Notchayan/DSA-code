@@ -14,7 +14,7 @@ The control is in your hands. You have the freedom to modulate your speed at any
 
 Given these parameters, your task is to strategize and find the quickest way to traverse from point `0` to point `L`. Good luck, and may speed be with you!
 
-#Input format 
+# Input
 
 The first line of the input comprises of two integers, `n` and `L` `(1≤n≤200000, 1≤L≤10^9)`, signifying the count of speed-up pads on the track and the total length of the track, respectively.
 
@@ -22,6 +22,6 @@ Following this, there are $n$ lines of input, each containing two integers `x_i`
 
 It is ensured that none of the speed-up pads overlap or intersect positively. They are ordered in the input from their position on the track, from the start to end. In other words, for `1≤i≤n−1`, the end point `y_i` of a pad is less than or equal to the starting point $x_i+1$ of the next pad.
 
-#output format 
+# Output
 
 The output should consist of a single real number that represents the minimum time required to complete the track from point `0` to `L`. Your answer will be deemed acceptable if the absolute or relative deviation from the correct answer does not surpass `10^-9`.
