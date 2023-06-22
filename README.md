@@ -38,8 +38,3 @@ g++ sol.cpp -o sol
 ```
 
 Then, enter your test data in the format specified in the statement.md file.
-
-## Contact
-If there are any questions or issues regarding this submission, please contact the submitter via the competition's preferred method of communication.
-
-Please replace any placeholders (like in the Contact section) with your actual data.
